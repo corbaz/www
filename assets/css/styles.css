@@ -1,0 +1,33 @@
+#top_page {
+  background-color: red;
+}
+
+#navbar {
+  background-color: blue;
+  color: orange;
+  position: fixed;
+}
+
+#navbar_logo {
+  background: url(/assets/img/pan.png) no-repeat;
+  width: 2em;
+  height: 2em;
+}
+
+#navbar_logo_titulo {
+  color: white;
+}
+
+#nav {
+  background-color: cyan;
+  margin-left: auto;
+}
+
+#nav li a {
+  color: white;
+}
+
+#navbar_hamburguesa {
+  background-color: green;
+}
+

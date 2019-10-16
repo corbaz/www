@@ -1,0 +1,17 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "removeComments": false,
+    "rootDir": "./ts",
+    "outDir": "./assets/js",
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": false,
+    "sourceMap": false,
+    "lib": ["es2018", "dom", "es6"],
+    "typeRoots": ["./node_modules/@types", "./@types"]
+  },
+  "include": ["./**/*"],
+  "exclude": ["node_modules", ".vscode-test"]
+}
