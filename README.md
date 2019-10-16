@@ -1,10 +1,26 @@
-Configurar Proyecto TypeScript con Node.js
+# Sitio HTML5-CSS3-Bootstrap 4-Sass-Js-Jquery-Typescript
+
+### HTML5 Boilerplate - JCC Producciones
+
+- https://corbaz.github.io/www/
+
+* JCC Producciones
+
+* julio.corbaz@gmail.com
+
+* +5492235444899
+
+---
+
+### Configurar Proyecto TypeScript con Node.js
 
 https://nodejs.org/es/
 
 npm install npm -g + npm@6.12.0
 
 npm install node -g + node@12.12.0
+
+---
 
 Configuración de un proyecto Node.js generar package.json
 npm init -y
@@ -22,6 +38,8 @@ npm install @types/jquery --save-dev
 compilación en vivo + ejecución
 npm install ts-node --save-dev
 npm install nodemon --save-dev
+
+---
 
 package.json
 {
