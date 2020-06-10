@@ -1,10 +1,10 @@
 #top_page {
-  background-color: red;
+  background-color: #1D1D1D
 }
 
 #navbar {
-  background-color: blue;
-  color: orange;
+  background-color: #1AA6E4;
+  color: #DEDEDE;
   position: fixed;
 }
 
